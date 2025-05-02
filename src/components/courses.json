@@ -1,0 +1,618 @@
+[
+  {
+    "Program ID":null,
+    "Program Name":"Bachelor of Social Work (B.S.W.)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"Passed H.S.C. with English."
+  },
+  {
+    "Program ID":"O.3274",
+    "Program Name":"Diploma in Yogic Education",
+    "Stream":"Diploma",
+    "Degree Level":"UG",
+    "Duration":"1 year",
+    "Eligibility":"Completion of higher secondary education (10+2) with an interest in yoga or physical education."
+  },
+  {
+    "Program ID":"O.2152",
+    "Program Name":"Bachelor of Commerce (B.Com.)",
+    "Stream":"Commerce",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Completion of 10+2 or equivalent with a minimum percentage (varies by institution)."
+  },
+  {
+    "Program ID":"O.3941",
+    "Program Name":"Bachelor of Management Studies (B.M.S.)",
+    "Stream":"Commerce",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Completion of 10+2 or equivalent; any stream is accepted."
+  },
+  {
+    "Program ID":"O.1824",
+    "Program Name":"Master of Performing Arts (M.P.A.) - Dance",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"1 year",
+    "Eligibility":"Must have a B.F.A. (Dance) degree or an equivalent recognized degree in the style of dance for which they seek admission ."
+  },
+  {
+    "Program ID":"O.5775",
+    "Program Name":"Certificate Courses in Performing Folk Arts",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"1 Year",
+    "Eligibility":"H.S.C. Pass"
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Bachelor of Library & Information Science (B.L.I.Sc.)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"1 year",
+    "Eligibility":"Passed H.S.C. with English."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Bachelors of Mass Media (B.M.M.)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"Passed H.S.C. with English."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Bachelor In Heritage Management (B.H.M.)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"Passed H.S.C. with English."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Five Years Integrated Programme (B.A. and M.A.) in Russian",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"5 years",
+    "Eligibility":"Passed H.S.C. with English."
+  },
+  {
+    "Program ID":"O.2138",
+    "Program Name":"Bachelor of Arts (B.A.) in English Literature",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"Passed Std. XII examination."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Five Year Integrated Programme (B.A. and M.A.) in German",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"5 years",
+    "Eligibility":"Passed H.S.C. with English."
+  },
+  {
+    "Program ID":"O.5296",
+    "Program Name":"Bachelor of Fine Art (B.F.A.) (Applied Art)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Passed H.S.C. with English; min. 50% (45% for Backward class)."
+  },
+  {
+    "Program ID":"O.5324",
+    "Program Name":"Bachelor of Fine Art (B.F.A.) (Sculpture)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"4 Years",
+    "Eligibility":"a candidate must have completed the Higher Secondary School Certificate Examination (H.S.C.) with English as one of the subjects, achieving at least 50% marks in aggregate (45% for reserved category candidates from Maharashtra). Additionally, candidates must pass the Intermediate Drawing Grade Examination of the Directorate of Art, Maharashtra; however, those from other states eligible for Government of India reserved seats and international candidates may be exempt from this requirement and allowed to take the entrance test"
+  },
+  {
+    "Program ID":"O.5310",
+    "Program Name":"Bachelor of Fine Art (B.F.A.) Painting",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"4 Years",
+    "Eligibility":"a candidate must pass the Higher Secondary School Certificate Examination (H.S.C.) with English as one of the subjects, achieving at least 50% marks in aggregate (45% for reserved category candidates from Maharashtra). Candidates must also pass the Intermediate Drawing Grade Examination from the Directorate of Art, Maharashtra, though those from other states eligible for Government of India reserved seats and international candidates may be exempt from this requirement and can appear for the entrance test."
+  },
+  {
+    "Program ID":"O.5317",
+    "Program Name":"Bachelor of Fine Art (B.F.A.) (Metal Work)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"4 Years",
+    "Eligibility":"a candidate must have completed the Higher Secondary School Certificate Examination (H.S.C.) with English as one of the subjects, achieving at least 50% marks in aggregate (45% for reserved category candidates from Maharashtra). Additionally, candidates must pass the Intermediate Drawing Grade Examination of the Directorate of Art, Maharashtra; however, those from other states eligible for Government of India reserved seats and international candidates may be exempt from this requirement and allowed to take the entrance test"
+  },
+  {
+    "Program ID":"O.5338",
+    "Program Name":"Bachelor of Fine Art (B.F.A.) (Interior Decoration)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"4 Years",
+    "Eligibility":"a candidate must have completed the Higher Secondary School Certificate Examination (H.S.C.) with English as one of the subjects, achieving at least 50% marks in aggregate (45% for reserved category candidates from Maharashtra). Additionally, candidates must pass the Intermediate Drawing Grade Examination of the Directorate of Art, Maharashtra; however, those from other states eligible for Government of India reserved seats and international candidates may be exempt from this requirement and allowed to take the entrance test"
+  },
+  {
+    "Program ID":"O.5303",
+    "Program Name":"Bachelor of Fine Art (B.F.A.) (Ceramics)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"4 Years",
+    "Eligibility":"a candidate must have passed the Higher Secondary School Certificate Examination (H.S.C.) with English as one of the subjects, achieving at least 50% marks in aggregate (45% for reserved category candidates from Maharashtra). Candidates are also required to pass the Intermediate Drawing Grade Examination of the Directorate of Art, Maharashtra; however, those from other states eligible for Government of India reserved seats and international candidates may be exempt from this requirement and allowed to take the entrance test. Additionally, candidates must pass an Entrance-Aptitude Test as prescribed by the University and conducted by the respective college or institution\u00e2\u20ac\u2039"
+  },
+  {
+    "Program ID":"O.5331",
+    "Program Name":"Bachelor of Fine Art (B.F.A.) (Textile Design)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"4 Years",
+    "Eligibility":"a candidate must have completed the Higher Secondary School Certificate Examination (H.S.C.) with English as one of the subjects, achieving at least 50% marks in aggregate (45% for reserved category candidates from Maharashtra). Additionally, candidates must pass the Intermediate Drawing Grade Examination of the Directorate of Art, Maharashtra; however, those from other states eligible for Government of India reserved seats and international candidates may be exempt from this requirement and allowed to take the entrance test"
+  },
+  {
+    "Program ID":"O.5002",
+    "Program Name":"Bachelor of Architecture (B.Arch.)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"5 years",
+    "Eligibility":"Candidates must have passed the HSC examination with Mathematics and secured at least 50% marks (45% for reserved categories) and cleared the aptitude test"
+  },
+  {
+    "Program ID":"O.5621",
+    "Program Name":"Bachelor of Architecture with Interior Design Course",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"5 years",
+    "Eligibility":"Candidates must have passed the Higher Secondary Certificate (HSC) examination with English, Physics, Chemistry, and Mathematics, securing a minimum of 45% marks (40% for reserved categories). Diploma holders in Engineering\/Technology or B.Sc. graduates with Mathematics are also eligible"
+  },
+  {
+    "Program ID":"O.5719",
+    "Program Name":"B.Sc. Computer Science",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"passing the XII standard with Mathematics and Statistics, with a minimum of 45% aggregate marks (40% for reserved categories) or holding a recognized diploma in relevant fields, allowing direct admission to the second year"
+  },
+  {
+    "Program ID":"O.5051",
+    "Program Name":"B.Sc. Information Technology (I.T.)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Candidates eligible for B.Sc. IT must have passed the 12th standard with Mathematics and Statistics or hold a recognized diploma in relevant fields, with at least 45% aggregate marks for open category and 40% for reserved category candidates."
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Computer Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Must have passed HSC (Std. XII) or equivalent (CBSE or other state boards) with English, Physics, Chemistry, and Mathematics.Must secure at least 45% marks (135\/300) in Physics, Chemistry, and Mathematics combined, or 40% marks (120\/300) for candidates from backward class categories of Maharashtra."
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Information Technology)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Candidates must have passed the Higher Secondary Certificate (HSC) examination with English, Physics, Chemistry, and Mathematics, securing a minimum of 45% marks (40% for reserved categories). Diploma holders in Engineering\/Technology or B.Sc. graduates with Mathematics are also eligible"
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Electronics & Telecommunication Engineering)",
+    "Stream":null,
+    "Degree Level":"Science",
+    "Duration":"UG",
+    "Eligibility":"4 years"
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Instrumentation Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Candidates must have passed the Higher Secondary Certificate (HSC) examination with English, Physics, Chemistry, and Mathematics, securing a minimum of 45% marks (40% for reserved categories). Diploma holders in Engineering\/Technology or B.Sc. graduates with Mathematics are also eligible"
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.A. Programme in Film, Television and New Media Production",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"Not specified",
+    "Eligibility":"Passed H.S.C. with English."
+  },
+  {
+    "Program ID":"O.3389",
+    "Program Name":"Certificate Course in Sound Recording and Reproduction",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"1 Year",
+    "Eligibility":"Must have passed the Higher Secondary School Certificate (12th standard) or an equivalent examination. Selection is through an interview."
+  },
+  {
+    "Program ID":"O.5108",
+    "Program Name":"B.Sc. (Bio-Technology)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Admission is merit-based, prioritizing aggregate marks at HSC, followed by science group subjects (Physics, Chemistry, Biology), and specific marks in Biology and Chemistry"
+  },
+  {
+    "Program ID":"O.5101",
+    "Program Name":"B.Sc. (Hospitality Studies)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Eligibility for the Bachelor of Science (Hospitality Studies) program requires passing the XII Standard Examination with at least 45% aggregate marks (40% for reserved categories)"
+  },
+  {
+    "Program ID":"O.5893",
+    "Program Name":"B.Sc. in Forensic Science",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3Years",
+    "Eligibility":"12th Science Pass"
+  },
+  {
+    "Program ID":"O.3980",
+    "Program Name":"Bachelor of Science in Nautical Sciences",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Eligibility for the B.Sc. (Nautical Sciences) program requires the candidate to be unmarried and to have passed the Higher Secondary School Certificate (Std. XII) with English, Physics, Chemistry, and Mathematics, and to be selected through the All India Qualifying Examination."
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Bio-Medical Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Must have passed HSC (Std. XII) or equivalent (CBSE or other state boards) with English, Physics, Chemistry, and Mathematics.Must secure at least 45% marks (135\/300) in Physics, Chemistry, and Mathematics combined, or 40% marks (120\/300) for candidates from backward class categories of Maharashtra."
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Mechanical Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Candidates must have passed the Higher Secondary Certificate (HSC) examination with English, Physics, Chemistry, and Mathematics, securing a minimum of 45% marks (40% for reserved categories). Diploma holders in Engineering\/Technology or B.Sc. graduates with Mathematics are also eligible"
+  },
+  {
+    "Program ID":"O.3397",
+    "Program Name":"Bachelor of Science (B.Sc.) in Mathematics",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 to 4 years",
+    "Eligibility":"Completion of higher secondary education (10+2) with a background in mathematics."
+  },
+  {
+    "Program ID":"O.3397",
+    "Program Name":"Bachelor of Science (B.Sc.) in Chemistry",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 to 4 years",
+    "Eligibility":"Completion of higher secondary education (10+2) with a background in science."
+  },
+  {
+    "Program ID":"O.3397",
+    "Program Name":"Bachelor of Science (B.Sc.) in Physics",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 to 4 years",
+    "Eligibility":"Completion of higher secondary education (10+2) with a background in science."
+  },
+  {
+    "Program ID":"O.5425",
+    "Program Name":"Diploma Course in Rainfed Agriculture",
+    "Stream":"Diploma",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Must be a regular student pursuing a B.A."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. in Environmental Sciences",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Admission is merit-based, prioritizing aggregate marks at HSC, followed by science group subjects (Physics, Chemistry, Biology), and specific marks in Biology and Chemistry"
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"B.Sc. in Bioinformatics",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Candidates must have passed the Higher Secondary Certificate (HSC) examination with English, Physics, Chemistry, and Mathematics, securing a minimum of 45% marks (40% for reserved categories). Diploma holders in Engineering\/Technology or B.Sc. graduates with Mathematics are also eligible"
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Chemical Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Must have passed HSC (Std. XII) or equivalent (CBSE or other state boards) with English, Physics, Chemistry, and Mathematics.Must secure at least 45% marks (135\/300) in Physics, Chemistry, and Mathematics combined, or 40% marks (120\/300) for candidates from backward class categories of Maharashtra."
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Construction Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Must have passed HSC (Std. XII) or equivalent (CBSE or other state boards) with English, Physics, Chemistry, and Mathematics.Must secure at least 45% marks (135\/300) in Physics, Chemistry, and Mathematics combined, or 40% marks (120\/300) for candidates from backward class categories of Maharashtra."
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Marine Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Candidates must have passed the Higher Secondary Certificate (HSC) examination with English, Physics, Chemistry, and Mathematics, securing a minimum of 45% marks (40% for reserved categories). Diploma holders in Engineering\/Technology or B.Sc. graduates with Mathematics are also eligible"
+  },
+  {
+    "Program ID":"O.5695",
+    "Program Name":"Bachelor of Pharmaceutical Sciences (B.Pharm. Sci.)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Candidates must have passed the HSC examination with English, Physics, Chemistry, and Biology\/Mathematics, securing a minimum of 50% marks (45% for reserved categories)\u00e2\u20ac\u2039"
+  },
+  {
+    "Program ID":"O.3701",
+    "Program Name":"Bachelor of Engineering (Civil Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Must have passed HSC (Std. XII) or equivalent (CBSE or other state boards) with English, Physics, Chemistry, and Mathematics.Must secure at least 45% marks (135\/300) in Physics, Chemistry, and Mathematics combined, or 40% marks (120\/300) for candidates from backward class categories of Maharashtra."
+  },
+  {
+    "Program ID":"O.4006",
+    "Program Name":"Bachelor of Music (B.Mus.)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Must have passed the Diploma in Music from this university or an equivalent examination. Admission is subject to passing an audition test."
+  },
+  {
+    "Program ID":"O.5460",
+    "Program Name":"Bachelor of Performing Arts (B.P.A.) - Music (Karnataka Vocal\/Instrumental)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Must have passed H.S.C.\/12th standard in the respective branch, with a minimum of six years of training in Karnatak music under a Guru, subject to an audition and personal interview."
+  },
+  {
+    "Program ID":"O.5560",
+    "Program Name":"Certificate Course in Studio Singing Technique",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"6 Months",
+    "Eligibility":"Must have passed the 10th standard and possess good knowledge of vocal music, with at least five years of training or equivalent talent."
+  },
+  {
+    "Program ID":"O.4003",
+    "Program Name":"Diploma in Music",
+    "Stream":"Diploma",
+    "Degree Level":"UG",
+    "Duration":"2 Years",
+    "Eligibility":"Must have passed the Secondary School Certificate (10th standard) and pass an audition test."
+  },
+  {
+    "Program ID":"O.8252",
+    "Program Name":"Certificate Course in Light Music",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"1 Year",
+    "Eligibility":"Must have passed the Secondary School Certificate (10th standard)."
+  },
+  {
+    "Program ID":"O.3386",
+    "Program Name":"Certificate Course in Music Appreciation and Music Journalism",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"6 Months",
+    "Eligibility":"Must have passed the Higher Secondary School Certificate (12th standard) or equivalent examination. Selection is through an interview."
+  },
+  {
+    "Program ID":"O.4016",
+    "Program Name":"Advanced Certificate Course in Sound Recording and Reproduction",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"1 Year",
+    "Eligibility":"Must have passed the Higher Secondary School Certificate (12th standard) or an equivalent examination. Selection is through an interview."
+  },
+  {
+    "Program ID":"O.5247",
+    "Program Name":"Bachelor of Theatre Arts",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Must have passed the Higher Secondary School Certificate (12th standard) or an equivalent examination."
+  },
+  {
+    "Program ID":"O.5424 \/ O.5425",
+    "Program Name":"Certificate Course in Food Processing and Preservation",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"12 weeks",
+    "Eligibility":"H.S.C. passed"
+  },
+  {
+    "Program ID":"O.5760",
+    "Program Name":"B.Sc. in Maritime Hospitality Studies",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"3Years",
+    "Eligibility":"passed 12th (HSC) with at least 50% marks in English (45% for backward class) and 50% aggregate marks, with admission based on merit."
+  },
+  {
+    "Program ID":"O.5204",
+    "Program Name":"Bachelor of Commerce (Accounting & Finance)",
+    "Stream":"Commerce",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Completion of 10+2 in Commerce stream with Mathematics and English."
+  },
+  {
+    "Program ID":"O.5209",
+    "Program Name":"Bachelor of Commerce (Banking & Insurance)",
+    "Stream":"Commerce",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Completion of 10+2 in Commerce stream; preference for students with Mathematics."
+  },
+  {
+    "Program ID":"O.5693",
+    "Program Name":"Bachelor of Commerce (Financial Markets)",
+    "Stream":"Commerce",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Completion of 10+2 in Commerce stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":"O.4038",
+    "Program Name":"Diploma in Early Childhood Care and Education (Dip E.C.C.Ed.)",
+    "Stream":"Diploma",
+    "Degree Level":"UG",
+    "Duration":"1 to 2 years",
+    "Eligibility":"Completion of higher secondary education (10+2) with a focus on early childhood education or related fields."
+  },
+  {
+    "Program ID":"O.6049",
+    "Program Name":"Diploma in Aviation Safety and Hospitality",
+    "Stream":"Diploma",
+    "Degree Level":"UG",
+    "Duration":"1 year",
+    "Eligibility":"Completion of higher secondary education (10+2) with a focus on hospitality or safety management."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. in Home Science",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Completion of 10+2 in Science stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. In Biochemistry",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Completion of 10+2 in Science stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. In Life Sciences",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Completion of 10+2 in Science stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. In Nursing",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Completion of 10+2 in Science stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. In Physiotherapy",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Completion of 10+2 in Science stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc in Fashion Design",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Completion of 10+2 in Science stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":"O.3320",
+    "Program Name":"Bachelor of Physical Education (B.P.Ed.)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"Completion of higher secondary education (10+2) with a focus on physical education or sports."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. in Sports Management",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"pass your 12th grade from a recognized board with a minimum aggregate score"
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Bachelor of Journalism and Mass Communication (BJMC) degree",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"pass your 10+2 from a recognized board with a minimum aggregate of 50%"
+  },
+  {
+    "Program ID":"O.2059",
+    "Program Name":"Bachelor of Performing Arts (B.P.A.) - Dance",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 Years",
+    "Eligibility":"Must pass the two-year Foundation Course in Dance or Higher Secondary Certificate (H.S.C.) with two terms completed at a recognized institution. Direct admission is possible after passing a preliminary test if the candidate has sufficient performing experience ."
+  },
+  {
+    "Program ID":"O.5549",
+    "Program Name":"Certificate Course in Dramatics (In Marathi)",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"On Saturday & Sunday for eleven months",
+    "Eligibility":"passed Secondary School Certificate examinations (S.S.C.)(Standard X) conducted by Maharashtra state Board of Secondary Education, Pune or any examination of any other body recognized as equivalent thereto."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Bachelor of Culinary Arts",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"pass your 10+2 from a recognized board with a minimum aggregate of 50%"
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Diploma in Bakery and Confectionary",
+    "Stream":"Arts",
+    "Degree Level":"UG",
+    "Duration":"2-3 Years",
+    "Eligibility":"pass your 10+2 from a recognized board with a minimum aggregate of 50%"
+  },
+  {
+    "Program ID":null,
+    "Program Name":"B.Sc. Aviation",
+    "Stream":null,
+    "Degree Level":"UG",
+    "Duration":"3 years",
+    "Eligibility":"Completion of 10+2 in Science stream; Mathematics is advantageous."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Bachelor of Engineering (Automobile Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Must have passed HSC (Std. XII) or equivalent (CBSE or other state boards) with English, Physics, Chemistry, and Mathematics.Must secure at least 45% marks (135\/300) in Physics, Chemistry, and Mathematics combined, or 40% marks (120\/300) for candidates from backward class categories of Maharashtra."
+  },
+  {
+    "Program ID":null,
+    "Program Name":"Bachelor of Engineering (Production Engineering)",
+    "Stream":"Science",
+    "Degree Level":"UG",
+    "Duration":"4 years",
+    "Eligibility":"Must have passed HSC (Std. XII) or equivalent (CBSE or other state boards) with English, Physics, Chemistry, and Mathematics.Must secure at least 45% marks (135\/300) in Physics, Chemistry, and Mathematics combined, or 40% marks (120\/300) for candidates from backward class categories of Maharashtra."
+  }
+]
